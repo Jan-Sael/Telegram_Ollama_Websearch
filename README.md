@@ -159,7 +159,7 @@ Do not use the example value.
 The bot is restricted to:
 
 ```python
-ALLOWED_TELEGRAM_USER_ID = 7195406693
+ALLOWED_TELEGRAM_USER_ID = your Telegram ID here - search how to get
 ```
 
 Only that Telegram user ID is allowed to interact with the bot.
